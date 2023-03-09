@@ -33,6 +33,7 @@ public class BiConsumerDemo {
 			System.out.println( k+ " -> "+ v);
 		});
 		
+		System.out.println("Hello am learning git and gitHub...");
 		
 	}
 
